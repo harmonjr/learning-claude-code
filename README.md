@@ -2,7 +2,16 @@
 
 ## 🎯 Project Overview
 
-This repository is a comprehensive learning system for mastering Claude Code 2.0, specifically designed for real estate professionals. The goal is to create a profitable YouTube channel, educational course, and integrate with **The Candid Agent** platform—a Substack-style platform for real estate agents.
+**This is my personal learning laboratory** for mastering Claude Code 2.0 at a developer level.
+
+I'm Randy Harmon - a real estate agent with a Computer Engineering background and 20 years of Oracle SQL experience. This repository documents my journey from Claude Code novice to expert through **real estate work, not theory**.
+
+**The Approach**: Master first, teach second.
+- Weeks 1-8: Master Claude Code through actual real estate tasks
+- Weeks 9-12: Transform my learning into teaching materials
+- Weeks 13-16: Launch YouTube channel and course from authentic experience
+
+This repo contains my learning logs, breakthroughs, failures, iterations, and real work examples that will become the foundation for teaching other agents.
 
 ## 🚀 Business Vision
 
@@ -70,37 +79,89 @@ learning-claude-code/
 ### Phase 6: Mastery & Scale (Video 20)
 - Video 20: The Complete System: Your AI-Powered Real Estate Business
 
-## 🎓 Learning Path (12-Week Mastery Plan)
+## 🎓 My Personal Mastery Plan (16 Weeks)
 
-### Weeks 1-3: Foundation & GitHub
-- Install Claude Code and GitHub
-- Master Git fundamentals
-- Understand Skills architecture
-- Create basic market reports and templates
+### Phase 1: Personal Mastery Through Real Work (Weeks 1-8)
+**Goal**: Master Claude Code by solving actual real estate problems
 
-### Weeks 4-6: Market Intelligence Systems
-- Design data structures for market intelligence
-- Build neighborhood profile templates
-- Create competitive analysis frameworks
-- Develop buyer protection checklists
+#### Week 1: Foundation & Quick Wins
+- Set up web-based Claude Code (not CLI - easier start)
+- Create this GitHub repository
+- Learn 7 essential Git commands through daily use
+- **Real Work**: Generate actual market reports and listing descriptions
+- **Document**: Keep daily learning log, screenshot breakthroughs
+- **Target**: Save 5+ hours this week
 
-### Weeks 7-9: Marketing & Content Creation
-- Build content template systems
-- Create email marketing sequences
-- Develop listing marketing packages
-- Generate social media content calendars
+#### Week 2: Scale & Systems
+- Create 30 days of social media content (test usage limits)
+- Build complete neighborhood profile
+- Generate email drip campaign
+- Learn checkpoints system (Esc+Esc to rewind mistakes)
+- **Document**: What prompts worked/failed, usage limit strategies
+- **Target**: Content creation time reduced by 80%
 
-### Weeks 10-12: Automation & Advanced Skills
-- Write Python scripts with Claude's help
-- Create custom Skills from scratch
-- Build multi-step automated workflows
-- Implement GitHub Actions basics
+#### Week 3: First Custom Skill
+- Create ONE custom Skill: Market Report Generator
+- Test it 5x with real data
+- Refine based on results
+- **Document**: Iteration process, what made it better
+- **Target**: 1 working Skill I actually use
 
-### Weeks 13-16: Course Creation & Launch
-- Record all 20 videos
-- Expand into full course
+#### Weeks 4-6: Code Understanding & Automation
+- Have Claude Code write Python script for MLS data
+- **Study every line until I understand it**
+- Modify the script myself
+- Practice Git branching with real scenarios
+- **Document**: My questions, Claude's explanations, my modifications
+- **Target**: Understand 100% of code Claude writes
+
+#### Weeks 7-8: Complex Workflows & ROI
+- Build complete "new listing" workflow
+- Use subagents for parallel tasks
+- Integrate with my actual business
+- **Measure real time savings**
+- **Document**: What actually saves time vs hype
+- **Target**: 15+ hours saved per week, provable
+
+### Phase 2: Transform Learning to Teaching (Weeks 9-12)
+**Goal**: Create teaching materials from authentic experience
+
+#### Weeks 9-10: Video Scripts from Real Experience
+- Review my learning logs from Weeks 1-8
+- Identify my 5 biggest breakthroughs
+- Write video scripts based on actual experience
+- Include mistakes I made (builds trust)
+- **Output**: Scripts for Videos 1-10
+
+#### Week 11: Course Refinement
+- Restructure course based on what actually mattered
+- Remove theoretical fluff
+- Emphasize practical wins
+- Address real frustrations (usage limits!)
+- **Output**: Refined 12-week course outline
+
+#### Week 12: Beta Test
+- Teach ONE real estate agent
+- Watch where they struggle
+- Refine materials based on their questions
+- Record the process
+- **Output**: Validated teaching approach
+
+### Phase 3: Content Production & Launch (Weeks 13-16)
+**Goal**: Launch with real expertise, not theory
+
+#### Weeks 13-14: Record Videos 1-10
+- Record with confidence (I've done the work)
+- Use real examples from my experience
+- Show actual results
+- **Output**: 10 professional videos
+
+#### Weeks 15-16: Launch & Iterate
 - Launch YouTube channel
-- Introduce The Candid Agent platform integration
+- Release videos 1-10
+- Gather feedback
+- Refine next 10 based on real student questions
+- **Output**: Active channel, engaged audience
 
 ## 🛠 Key Technologies & Tools
 

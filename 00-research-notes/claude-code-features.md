@@ -47,6 +47,130 @@ Skills are pre-built or custom capabilities that extend Claude Code's functional
 - Pull request creation
 - Collaboration features
 
+## 2024 Game-Changing Features
+
+### 1. Checkpoints System (Revolutionary!)
+**The Safety Net for Experimentation**
+
+Claude Code automatically saves snapshots before each change. Press **Esc twice** to instantly rewind to any previous version.
+
+**Why This Matters for Real Estate Agents:**
+- Try different listing description approaches without fear
+- Experiment with prompt styles safely
+- Undo mistakes immediately
+- Learn by trying things without risk
+
+**How to Use:**
+1. Claude Code makes a change
+2. You don't like it? Press Esc + Esc
+3. Instant rollback to previous state
+4. Try a different approach
+
+**Example**: "Write a luxury listing description" → too formal → Esc+Esc → "Write with warm, approachable tone" → perfect!
+
+### 2. Subagents (Parallel Development)
+**Multiple Claude agents working simultaneously**
+
+You can delegate multiple tasks to different Claude agents running in parallel.
+
+**Real Estate Use Cases:**
+- **Agent 1**: Generate weekly market report
+- **Agent 2**: Create social media content
+- **Agent 3**: Write email campaigns
+- All three work at the same time!
+
+**How to Use from Web Interface:**
+- Go to claude.com/code
+- Delegate tasks from your browser
+- Monitor multiple tasks in one view
+- Each completes independently
+
+**Time Savings**: What took 90 minutes sequentially now takes 30 minutes in parallel.
+
+### 3. Background Tasks
+**Long-running processes don't block your work**
+
+Development servers, data processing, or long operations run in background while you continue other work.
+
+**Real Estate Application:**
+- Process large MLS data export in background
+- Generate month of content while you work on other tasks
+- Run Python scripts without waiting
+
+### 4. Web-Based Claude Code
+**Access Claude Code from your browser**
+
+No CLI required! Go to **claude.com/code** for full Claude Code functionality in your browser.
+
+**Perfect for Real Estate Agents:**
+- No terminal/command line intimidation
+- Familiar web interface
+- Easier to start than CLI
+- Same powerful features
+- Mobile access via iOS app
+
+**Recommended Starting Point**: Begin with web version, graduate to CLI if needed.
+
+### 5. Extended Thinking Mode
+**Advanced reasoning for complex problems**
+
+Access via `/model` command for tasks requiring deep analysis.
+
+**When to Use:**
+- Complex market analysis
+- Strategic planning
+- Multi-factor decision making
+- Understanding intricate code
+
+**How to Use:**
+```
+/model opus
+[Your complex question or task]
+```
+
+### 6. Platform Availability
+**Claude Code Everywhere**
+
+- **Web**: claude.com/code (recommended start)
+- **CLI**: Terminal-based (advanced users)
+- **VS Code**: Native extension with GUI
+- **JetBrains**: IntelliJ, PyCharm, etc.
+- **iOS**: Mobile app access
+- **Cursor/Windsurf**: Third-party IDE integration
+
+**For Learning**: Start with web version, it's the most accessible.
+
+## Critical: Usage Limits (Reality Check)
+
+### The Challenge
+**Weekly limits are aggressive**, especially during learning:
+- Pro users ($20/month) often hit limits in 2-3 days of normal use
+- Max users ($200/month) hit limits with 5-6 days remaining in week
+- **5-hour rate limit cycles** with countdown timers
+
+### Managing Limits While Learning
+**Strategies:**
+1. **Plan heavy work early in week** (Mon-Tue)
+2. **Use checkpoints liberally** (they don't count as much against limits)
+3. **Batch similar tasks** (do all social posts at once)
+4. **Learn from output** (study what works, use it as templates)
+5. **Document successful prompts** (reuse without iteration)
+
+### Week 1 Reality
+- **Expect to hit limits** if you're learning aggressively
+- **That's okay** - it means you're practicing!
+- **Document when** you hit them (time of day, task type)
+- **Find patterns** - optimize for efficient use
+
+### Teaching Implication
+When you teach agents, **address limits from day 1**:
+- Set expectations
+- Teach efficient prompting
+- Show batching strategies
+- Plan learning around limit cycles
+
+**Bottom Line**: Limits are frustrating but manageable with strategies.
+
 ## Key Advantages for Real Estate Agents
 
 ### Problem: Traditional AI Forgets Context
